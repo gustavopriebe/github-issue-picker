@@ -1,0 +1,9 @@
+{
+  "name": "github-issue-picker",
+  "version": "0.1.0",
+  "description": "List open GitHub issues for a repository, let the user pick one, and implement it.",
+  "author": {
+    "name": "Gustavo Priebe"
+  },
+  "keywords": ["github", "issues", "workflow"]
+}
